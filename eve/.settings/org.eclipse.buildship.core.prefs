@@ -1,0 +1,9 @@
+connection.arguments=
+connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(D\:\\Test\\Softwares\\Gradle\\gradle-2.12))
+connection.gradle.user.home=D\:\\Test\\Repository\\.gradle
+connection.java.home=D\:\\Test\\Softwares\\Java\\jdk1.8.0_66
+connection.jvm.arguments=
+connection.project.dir=
+eclipse.preferences.version=1
+filters=1.0-projectRelativePath-matches-false-false-eve-api,1.0-projectRelativePath-matches-false-false-eve-repository,1.0-projectRelativePath-matches-false-false-eve-webapp
+project.path=\:

@@ -1,0 +1,5 @@
+rootProject.name = 'eve'
+
+include 'eve-repository'
+include 'eve-api'
+include 'eve-webapp'
